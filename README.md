@@ -54,4 +54,3 @@ vagrant destroy
 - The Apache virtual host is configured for WordPress and enabled by default.
 
 ---
-Generated from [Vagrantfile](wordpress_IAC/Vagrantfile)
